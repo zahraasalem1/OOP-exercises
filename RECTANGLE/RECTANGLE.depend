@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1788828067 source:c:\users\zahra\desktop\oop-exercises\rectangle\src\rectangle.cpp
+	"RECTANGLE.h"
+	<iostream>
+
+1788828224 c:\users\zahra\desktop\oop-exercises\rectangle\include\rectangle.h
+
+1788828239 source:c:\users\zahra\desktop\oop-exercises\rectangle\main.cpp
+	<iostream>
+	"RECTANGLE.h"
+
